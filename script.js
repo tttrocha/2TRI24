@@ -9,7 +9,7 @@ const perguntas = [
         enunciado: "THE UMBRELLA ACADEMY",
         alternativas: [
             {
-                texto: "4 TEMPORADA DE THE UMBRELLA ACADEMY",
+                texto: "AMO MINHAS BESTIES AMO AS QUEENS NATTI,KAU E JENHY",
                 afirmacao: "CINCO"
             },
             {
